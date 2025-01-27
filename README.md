@@ -13,7 +13,7 @@ The **User Management Dashboard** is a web application built with modern front-e
 - **React Router DOM**: For routing and navigation within the application.
 - **Axios**: For making HTTP requests to interact with the JSONPlaceholder API.
 - **React Icons**: For adding modern, scalable vector icons to enhance the UI.
-- **Netlify**: For hassle-free deployment and hosting.
+- **Vercel**: For hassle-free deployment and hosting.
 
 ---
 
